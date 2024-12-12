@@ -2,15 +2,15 @@ Please make sure you change the original .yaml fields in the accounts/, Collecti
 Example pull request:
 
 ```yaml
-name: the name of your token
-description: description of your token
+name: CAFFET
+description: Welcome to the CAFF society!
 image: "link to your token logo" !!! (don't use ton.api)!!!
-address: Address of your token 
+address: 0:56072ee3d92c6032a36f05ace353aa6974ea8daec046cbd494db87a5d24999bb 
 symbol: Symbol of your token
 websites:
   - "link"
 social:
-  - "link"
+  - https://t.me/caffetmem
 ```
 
 
